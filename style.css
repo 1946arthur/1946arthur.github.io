@@ -45,6 +45,11 @@ main {
     object-fit: cover;
 }
 
+.box1 img:hover{ 
+	opacity:0.5;
+	transition:0.3s;
+}
+
 .box2 {
     text-align: left;
     font-size: 15px;
