@@ -53,15 +53,13 @@ main {
 .box2 {
     text-align: left;
     font-size: 15px;
+}
+
+.box2 ul{
     padding: 0px 20px;
 }
 
-.spec {
-    text-align: left;
-}
-
 .notes {
-    text-align: left;
     color: #800000;
     margin-top: 10px;
 }
